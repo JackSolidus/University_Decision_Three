@@ -1,0 +1,4 @@
+# ninja log v5
+1	105	6918756065648689	build.ninja	490c4e703bf862db
+0	861	6918756074424233	CMakeFiles/DecisionThree.dir/main.cpp.obj	14f6af7c76d2eb40
+863	983	6918756075600430	DecisionThree.exe	7297689e5aa046ac
